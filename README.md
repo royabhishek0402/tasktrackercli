@@ -1,3 +1,3 @@
 # tasktrackercli
 
-project link: https://github.com/royabhishek0402/tasktrackercli.git
+project link: https://roadmap.sh/projects/task-tracker
